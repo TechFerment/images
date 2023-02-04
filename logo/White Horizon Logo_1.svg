@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Black_Horizon_Logo" data-name="Black Horizon Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1020 280">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        fill: #fff;
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-7 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-4 {
+        font-family: Comfortaa-Bold, Comfortaa;
+        font-size: 108.65px;
+        font-variation-settings: 'wght' 700;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" width="1020" height="280"/>
+  <text class="cls-4" transform="translate(270.94 175.29)"><tspan class="cls-5" x="0" y="0">t</tspan><tspan class="cls-8" x="42.26" y="0">e</tspan><tspan class="cls-5" x="106.26" y="0">ch</tspan><tspan class="cls-7" x="243.16" y="0">f</tspan><tspan class="cls-6" x="279.56" y="0">erment</tspan></text>
+  <g>
+    <path class="cls-2" d="M108.45,172.38c-6.19-47.29,20.07-94.56,80.52-102.38,11.38,45.72-24.17,106.59-65.1,110.9,10.72-19.86,21.37-39.58,32.02-59.29-1.06-.68-2.12-1.35-3.18-2.03-21.77,10.94-34.34,30.13-44.25,52.8Z"/>
+    <path class="cls-1" d="M93.93,174.86l-31.47-18.85c-1.54-.97-2.3-2.27-2.3-3.92,0-1.48,.77-2.76,2.3-3.84l31.47-18.93c1.53-.8,3.01-.81,4.43-.04,1.42,.77,2.13,1.98,2.13,3.62s-.71,2.98-2.13,3.84l-28.74,17.06v-3.67l28.74,17.23c1.42,.91,2.13,2.16,2.13,3.75,0,1.14-.36,2.09-1.07,2.86-.71,.77-1.58,1.25-2.6,1.45-1.02,.2-1.99,.01-2.9-.55Z"/>
+    <path class="cls-1" d="M196.94,175.27c-.91,.57-1.88,.75-2.9,.55-1.02-.2-1.89-.68-2.6-1.45-.71-.77-1.07-1.72-1.07-2.86,0-1.59,.71-2.84,2.13-3.75l28.74-17.23v3.67l-28.74-17.06c-1.42-.85-2.13-2.13-2.13-3.84s.71-2.86,2.13-3.62c1.42-.77,2.9-.75,4.43,.04l31.47,18.93c1.53,1.08,2.3,2.36,2.3,3.84,0,1.65-.77,2.96-2.3,3.92l-31.47,18.85Z"/>
+  </g>
+</svg>
